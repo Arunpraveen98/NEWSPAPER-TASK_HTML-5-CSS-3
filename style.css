@@ -6,7 +6,9 @@ body {
   margin-top: 50px;
   margin-left: 150px;
 }
-
+.text-align {
+  text-align: justify;
+}
 .frontpage {
   background-color: white;
   border: 5px solid black;
